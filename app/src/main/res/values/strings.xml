@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Android Fundamental 01.2 part B</string>
+    <string name="count_initial_value">0</string>
+    <string name="button_label_toast">01.2 B</string>
+    <string name="button_label_count">count</string>
+    <string name="showToast">Complete lesson 01.2 part B</string>
+    <string name="button_label_zero">Zero</string>
+</resources>
